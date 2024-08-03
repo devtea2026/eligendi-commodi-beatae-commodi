@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/eligendi-commodi-beatae-commodi",
-  "version": "5.3.87",
+  "version": "5.3.88",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -734,5 +734,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/eligendi-commodi-beatae-commodi/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
